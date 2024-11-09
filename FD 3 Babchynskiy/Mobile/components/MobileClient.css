@@ -1,0 +1,14 @@
+.MobileClient {
+    padding: 12px 12px;
+    border-bottom: solid black 1px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.MobileClient-button {
+    width: 45%;
+  }
+
+.MobileClient-text {
+    border: none;
+}
